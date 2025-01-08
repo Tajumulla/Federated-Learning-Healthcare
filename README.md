@@ -53,7 +53,7 @@ The global model provides:
 ## ⚙️ Setup & Usage
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/your-username/Federated-Learning-Healthcare.git](https://github.com/Tajumulla/Federated-Learning-Healthcare)
+   git clone https://github.com/Tajumulla/Federated-Learning-Healthcare
    ```
 
 2. **Navigate to the Project Directory:**
